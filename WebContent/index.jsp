@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	hello,visitor! your ip is <%=request.getRemoteAddr() %>
 </body>
 </html>
